@@ -1,0 +1,57 @@
+body {
+  background-color: rgb(9, 68, 50);
+}
+.copy_right_footer {
+ position: fixed;
+ color: #053325;
+ bottom: 0;
+ width: 100%;
+ background-color: rgb(179, 255, 242);
+ line-height: 3;
+ text-align: center;
+   font-family: 'Special Elite', cursive;
+
+}
+ol h5
+{
+  background: rgb(190, 255, 245);
+  padding: 13px;
+  border-radius: 20px;
+}
+span
+{
+  color: orange;
+  font-size: 16px;
+}	
+li img
+{
+  border-radius: 20px;
+}
+.bob
+{
+  background:rgb(2, 54, 63);
+  padding: 30px;
+  border-radius: 20px;
+  margin-top: 50px;
+  box-shadow: 5px 5px 18 rgb(16, 59, 50);
+}
+b
+{
+  color: rgb(0, 0, 0);
+}
+
+.bob3
+{
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+.result
+{
+  box-shadow: 5px 5px 18px ;
+  letter-spacing: 2px;
+  background: rgb(159, 255, 239);
+  border-radius: 20px;
+  margin-top:30px;
+  padding: 20px;
+  border:2px solid rgb(0, 255, 179)
+}
